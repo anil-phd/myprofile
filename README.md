@@ -1,2 +1,2 @@
-# anil.github.io
-personal website
+# ranjan13.github.io
+My personal website
