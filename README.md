@@ -1,2 +1,2 @@
-# anil-phd.github.io/anil.github.io/
+# anil-phd.github.io/myprofile/
 My personal website
